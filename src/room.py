@@ -1,10 +1,3 @@
-# class Room:
-    
-#     def __init__(self, room_number, capacity):
-#         self.number = room_number
-#         self.capacity = capacity
-#         self.guests = []
-
 class Room:
     
     room_count = 0
